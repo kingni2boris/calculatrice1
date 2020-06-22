@@ -1,0 +1,66 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+
+}
+.result{
+                height: 150px;
+                width: 335px;
+                border: 1px solid gray;
+
+                
+}
+.caro:hover{
+    color: black;
+}
+input:hover{
+
+}
+
+.caro{
+    border: none;
+    font-size: 20px;
+    margin: 20px;
+    background-color:gray ;
+    color: white;
+    
+}
+.chiffre{
+    background-color:gray ;
+    height: 270px;
+}
+.signe{
+    background-color: slategray;
+    border: none;
+    height: 270px;
+}
+input{
+    border: none;
+}
+.caro2{
+    border: none;
+    font-size: 20px;
+    margin: 14px;
+    background-color: slategray;
+    
+    
+}
+.vide{
+    background-color: cyan;
+    height: 270px;
+    width: 67px;
+}
+.element{
+    display: flex;
+    flex-direction: row;
+    
+
+}
